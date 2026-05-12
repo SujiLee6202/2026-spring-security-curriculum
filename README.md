@@ -4,9 +4,11 @@ Cybersecurity coursework and practice archive for Spring 2026.
 ## Overview
 
 This repository documents my cybersecurity-related coursework and practice during the Spring 2026 semester.
+
 이 저장소는 2026년 1학기 동안 수강한 사이버보안 관련 과목과 실습 내용을 정리하기 위한 학습 아카이브입니다.
 
 The purpose of this repository is to show my academic interests, learning process, and practical experience in cybersecurity, Linux systems, secure coding, IoT, intrusion detection, and AI-based security monitoring.
+
 이 저장소의 목적은 사이버보안, 리눅스 시스템, 보안코딩, IoT, 침입탐지, AI 기반 보안관제 분야에서의 학습 과정과 실습 경험을 정리하는 것입니다.
 
 ---
@@ -99,6 +101,7 @@ Topics:
 ├── ai-intrusion-detection/
 └── ai-security-monitoring/
 
+---
 # Notes
 
 This repository is continuously updated throughout the semester.
