@@ -100,10 +100,12 @@ Topics:
 ├── secure-coding-basics/
 ├── ai-intrusion-detection/
 └── ai-security-monitoring/
+```
 
 ---
-# Notes
+## Notes
 
 This repository is continuously updated throughout the semester.
+
 이 저장소는 학기 동안 지속적으로 업데이트할 예정입니다.
 
